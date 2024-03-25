@@ -7,7 +7,7 @@ body {
     padding: 15px;
     background-image: url('../img/sfondo.png');
     background-position: center center;
-    font-size: 2em;
+    
 }
 * {box-sizing: border-box;}
 hr {display: none;} /* rimuove l'elemento */
@@ -130,7 +130,7 @@ iframe {
 table {
     margin-bottom: 2em;
     margin-inline: auto;
-    width: 900px;
+    width: 60%;
 }
 caption {
     font-weight: bold;
@@ -181,6 +181,7 @@ aside h2 {
     text-transform: uppercase;
     margin-bottom: 1em;
 }
+
 aside div {
     background-color: #e3e3e3;
     border: 1px solid #c3c3c3;
